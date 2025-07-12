@@ -36,5 +36,7 @@ Split the dataset into training and testing sets using train_test_split
 Logistic Regression: Train a linear model and calculate accuracy
 
 Decision Tree Classifier: Create a tree-based model and evaluate its performance
+
 Random Forest Classifier: Build an ensemble model and compare its results
+
 Each model's accuracy is printed, providing insights into the strengths and weaknesses of different algorithms for this classification task.
