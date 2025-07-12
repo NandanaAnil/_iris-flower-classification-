@@ -1,4 +1,4 @@
- Iris Flower Classification using Machine Learning
+Iris Flower Classification using Machine Learning
  
 This project demonstrates how to classify iris flowers into species using three supervised machine learning algorithms:
 
@@ -8,7 +8,8 @@ Decision Tree Classifier
 
 Random Forest Classifier
 
- Dataset
+Dataset
+
 The model uses the Iris dataset, a classical dataset that contains 150 samples of iris flowers with 4 features:
 
 Sepal length
@@ -20,7 +21,7 @@ Petal length
 Petal width
 Each sample belongs to one of three classes: Iris-setosa, Iris-versicolor, or Iris-virginica.
 
-  Workflow Summary
+Workflow Summary
 Data Import & Visualization
 
 Load the Iris dataset using seaborn.
